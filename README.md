@@ -1,4 +1,5 @@
 <h1>Proyecto 1 del curso de desarrollo web</h1>
 
 <h2>Vista previa</h2>
-[image](https://github.com/user-attachments/assets/de116e6d-998d-4519-9e1d-846474515fe9)
+
+![image](https://github.com/user-attachments/assets/d8f37d1f-b541-4c64-bc1f-4ce8514aa9b0)
